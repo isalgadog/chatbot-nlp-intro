@@ -1,0 +1,37 @@
+texto,intent
+quiero comprar un libro,nuevo_pedido
+me ayudas a hacer un pedido,nuevo_pedido
+quiero pedir una novela,nuevo_pedido
+puedo encargar un libro con ustedes,nuevo_pedido
+necesito hacer una compra de libros,nuevo_pedido
+quiero levantar un pedido nuevo,nuevo_pedido
+quiero cancelar mi pedido,cancelar_pedido
+necesito anular una compra,cancelar_pedido
+me ayudas a cancelar un libro que pedí,cancelar_pedido
+ya no quiero mi pedido,cancelar_pedido
+puedo cancelar la orden,cancelar_pedido
+quiero dar de baja esa compra,cancelar_pedido
+donde va mi pedido,rastrear_pedido
+quiero rastrear una compra,rastrear_pedido
+me puedes decir el estado de mi pedido,rastrear_pedido
+como sigo el envío de mis libros,rastrear_pedido
+quiero saber si ya salió mi pedido,rastrear_pedido
+pueden revisar por dónde viene mi compra,rastrear_pedido
+tienen el libro cien años de soledad,info_titulos
+busco información sobre un título,info_titulos
+quiero saber si manejan novelas históricas,info_titulos
+me dices si tienen libros de poesía,info_titulos
+quisiera saber si cuentan con un título específico,info_titulos
+hay ejemplares disponibles de cierto libro,info_titulos
+cuáles son sus horarios,sucursales_horarios
+en dónde tienen sucursales,sucursales_horarios
+a qué hora abren,sucursales_horarios
+me compartes la dirección de una sucursal,sucursales_horarios
+qué días atienden,sucursales_horarios
+quiero saber dónde están ubicados,sucursales_horarios
+quiero hablar con alguien de mayoreo,mayoreo
+necesito atención para compra al mayoreo,mayoreo
+me interesa comprar muchos libros,mayoreo
+pueden comunicarme con ventas al mayoreo,mayoreo
+busco un especialista para compras grandes,mayoreo
+quiero cotizar un pedido grande de libros,mayoreo
